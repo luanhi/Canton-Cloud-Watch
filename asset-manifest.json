@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Canton-Cloud-Watch/static/css/main.e055b68c.css",
+    "main.js": "/Canton-Cloud-Watch/static/js/main.3e1e1e89.js",
+    "static/js/787.2ae0e4a2.chunk.js": "/Canton-Cloud-Watch/static/js/787.2ae0e4a2.chunk.js",
+    "index.html": "/Canton-Cloud-Watch/index.html",
+    "main.e055b68c.css.map": "/Canton-Cloud-Watch/static/css/main.e055b68c.css.map",
+    "main.3e1e1e89.js.map": "/Canton-Cloud-Watch/static/js/main.3e1e1e89.js.map",
+    "787.2ae0e4a2.chunk.js.map": "/Canton-Cloud-Watch/static/js/787.2ae0e4a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e055b68c.css",
+    "static/js/main.3e1e1e89.js"
+  ]
+}
